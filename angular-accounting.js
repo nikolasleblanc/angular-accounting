@@ -1,4 +1,4 @@
-/* angular-accounting.js / v0.0.0 / (c) 2014 Joakim Millén / MIT Licence */
+/* angular-accounting.js / v1.0.0 / (c) 2014 Joakim Millén / MIT Licence */
 
 /* global define */
 
@@ -21,7 +21,7 @@
 			 * @description
 			 * accounting global as a constant
 			 */
-			.constant('accounting', { 
+			.constant('accounting', {
 					formatColumn 	: accounting.formatColumn,
 					formatMoney 	: accounting.formatMoney,
 					formatNumber 	: accounting.formatNumber,
