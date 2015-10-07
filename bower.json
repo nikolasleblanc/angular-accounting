@@ -25,6 +25,6 @@
     "tests"
   ],
   "dependencies": {
-    "accounting.js": "https://github.com/openexchangerates/accounting.js"
+    "accounting.js": "https://github.com/openexchangerates/accounting.js#15e38ac6d61460958c389cc319a837e7a0d6cfa7"
   }
 }
