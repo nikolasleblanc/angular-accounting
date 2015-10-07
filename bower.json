@@ -25,6 +25,6 @@
     "tests"
   ],
   "dependencies": {
-    "accounting.js": "~0.4.1"
+    "accounting.js": "~0.4.2"
   }
 }
